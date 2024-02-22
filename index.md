@@ -11,7 +11,7 @@ summary: These brief instructions will help you get started quickly with the the
 
 ## Build the Theme
 
-Follow these instructions to build the theme. I've made an edit to this page.
+Follow the below instructions to build the theme. I've made an edit to this page.
 
 ### 1. Download the theme
 
